@@ -76,6 +76,13 @@
       "href": "https://museumwithnofrontiers.github.io/sharinghistory/#/historical-profiles/33a5d611-575b-5cd7-aa48-3fa4bc39c3fd/55debb27-32a1-5186-8d72-a49b586da747"
     }
   ],
+  "logos": [
+    {
+      "image": "legacy/logos/item_logo_17.png",
+      "link": "https://sharinghistory.museumwnf.org/pm_partner.php?id=IT_02;it&shpro=AWE&",
+      "tip": "MIBACT | Borghese Gallery, Rome, Italy"
+    }
+  ],
   "partnerLinks": {
     "https://sharinghistory.museumwnf.org/pm_partner.php?id=IT_02;it&shpro=AWE&": "https://museumwithnofrontiers.github.io/sharinghistory/#/partner/d5996b1b-7dd7-5d6e-af21-dc732123cc8c"
   }
